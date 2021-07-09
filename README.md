@@ -1,0 +1,1 @@
+# Tool to allow you to pull a bunch of gdrive stuff to your own account automatically, even if the files are share locked/limited 
